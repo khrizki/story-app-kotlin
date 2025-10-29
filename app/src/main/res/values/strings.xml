@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">App Story</string>
+    <string name="signup">Registrasi</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Selamat datang di App Story! Tempat seru untuk berbagi kisah, menjelajahi informasi terbaru, dan menemukan inspirasi dari cerita-cerita menarik orang lain. Semua pengalaman ada di sini, hanya untukmu!</string>
+    <string name="title_welcome_page">Selamat datang di App Story!</string>
+    <string name="title_signup_page">Kamu belum punya akun? Silahkan daftar dulu yah.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="title_login_page">Kamu sudah punya akun? Silahkan Login dulu yah</string>
+    <string name="name">Nama</string>
+    <string name="image_desc">Login Image</string>
+    <string name="sign_up_image_desc">Sign Up</string>
+    <string name="welcome_image_desc">Welcome User</string>
+    <string name="tgl_dummy">27 Februari 2021</string>
+    <string name="name_dummy">Name</string>
+    <string name="description_dummy">Description</string>
+    <string name="desc">Write your story here..</string>
+    <string name="choose_image">Select Image on</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="preview_image">Preview Image</string>
+    <string name="tambah_story">Add Story</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="maps_stories">Maps</string>
+    <string name="coba_lagi">Retry</string>
+    <string name="invalid_email_format">Email harus menggunakan domain @gmail.com atau @bangkit.academy</string>
+    <string name="password_minimum_length">Password harus terdiri dari minimal 8 karakter</string>
+    <string name="hint_email">Masukkan email</string>
+    <string name="hint_name">Masukkan nama</string>
+    <string name="hint_password">Masukkan password</string>
+    <string name="add">Add New Story</string>
+    <string name="story">Add Story</string>
+</resources>
